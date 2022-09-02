@@ -98,7 +98,7 @@ With the specified conditions, from all the 21,612 total properties, **10,728** 
 
 Following this recommendation and applying the pricing rule above, the maximum profit is **US$ 1,165,681,056.16**
 
-Samples of the recommendation table and the pricing table are shown below, and the full dashboard can be seen [here]([https://google.com](https://project-house-rocket-insights.herokuapp.com/)).
+Samples of the recommendation table and the pricing table are shown below, and the full dashboard can be seen [here](https://project-house-rocket-insights.herokuapp.com/).
 
 <p style="text-align: center;">  <b>Recommendation Table</b> </p>
 
